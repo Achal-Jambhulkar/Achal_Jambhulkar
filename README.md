@@ -10,4 +10,4 @@ Student interested in cognitive neuroscience, especially attention and cognitive
 Python (pandas, Nilearn, statsmodels) · fMRI basics · Zotero
 
 ## Contact
-[achal441206@gmail.com]
+achal441206@gmail.com
